@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-l
+RewriteCond %{REQUEST_FILENAME} !-f
+#https://www.xvideos.com/video14889629/candy_may_-_big_black_cock_double_penetration
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+Options +FollowSymLinks
+Options -Indexes
