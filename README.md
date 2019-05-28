@@ -10,3 +10,5 @@ Sistema de Perguntas e respostas em PHP
  - Publicar perguntas
  - Os usuários podem reagir e responder as perguntas
  - Notificações de comentários e reações
+ - Hashtags
+ - Área admnistrativa
